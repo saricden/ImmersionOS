@@ -4,6 +4,8 @@ An XR operating system for extended reality content & creators.
 
 ImmersionOS is a new kind of OS for extended reality (AR/VR/MR) devices comprised of a core and an extensible, functional component driven ecosystem that runs in 3D space. I plan on building the initial _proof of concept_ as a Unity app, then progressing towards a fully independant, open source OS.
 
+The target platform for the Unity POC is the Meta Quest 3.
+
 ## Table of Contents
 - [Core](#core)
 - [Editor](#editor)
